@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guides on My Docs</title><link>/docs/guides/</link><description>Recent content in Guides on My Docs</description><generator>Hugo</generator><language>en</language><copyright>Copyright (c) 2020-2024 Thulite</copyright><lastBuildDate>Thu, 07 Sep 2023 16:04:48 +0200</lastBuildDate><atom:link href="/docs/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Guide</title><link>/docs/guides/example-guide/</link><pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate><guid>/docs/guides/example-guide/</guid><description>&lt;h2 id="六年级下数学">六年级下数学&lt;/h2>
+&lt;h3 id="第一单元-扇形统计图">第一单元 扇形统计图&lt;/h3>
+&lt;p>适合百分比展示，可以看出每一部分占总体的大小，及他们间的大小关系。&lt;/p>
+&lt;p>折线 - 反应增减
+条形 - 反应多少&lt;/p>
+&lt;h3 id="第二单元-圆柱和圆锥">第二单元 圆柱和圆锥&lt;/h3>
+&lt;p>圆锥的体积等于等底等高圆柱的三分之一&lt;/p>
+&lt;p>圆柱的表面积由两个底面和一个侧面组成。
+底面积为底面半径的平方乘pi&lt;/p>
+
+&lt;span class="math math-block" id="h-rh-cb-math-0">
+ &lt;img src="/_8505927042823555434.svg" alt="mathematical expression or equation">
+&lt;/span>&lt;p>侧面积为底面周长乘高&lt;/p></description></item></channel></rss>
