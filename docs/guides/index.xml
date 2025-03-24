@@ -7,7 +7,6 @@
 &lt;p>圆锥的体积等于等底等高圆柱的三分之一&lt;/p>
 &lt;p>圆柱的表面积由两个底面和一个侧面组成。
 底面积为底面半径的平方乘pi&lt;/p>
-
-&lt;span class="math math-block" id="h-rh-cb-math-0">
- &lt;img src="/_8505927042823555434.svg" alt="mathematical expression or equation">
-&lt;/span>&lt;p>侧面积为底面周长乘高&lt;/p></description></item></channel></rss>
+&lt;p>$$
+S_底 = \pi r^2
+$$&lt;/p></description></item></channel></rss>
